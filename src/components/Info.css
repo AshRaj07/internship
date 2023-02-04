@@ -1,0 +1,19 @@
+.card {
+  width: 80%;
+  margin: 3% auto;
+  padding: 10px;
+  background-color: white;
+  border-radius: 25px;
+}
+.info {
+  display: flex;
+  width: 100%;
+  margin: 2% auto;
+  align-items: center;
+  justify-content: space-around;
+  background-color: white;
+}
+
+p {
+  background-color: white;
+}

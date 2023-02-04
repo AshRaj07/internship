@@ -1,0 +1,15 @@
+h3 {
+  background-color: white;
+}
+
+button {
+  background-color: crimson;
+  color: white;
+  padding: 8px;
+  border-color: crimson;
+  border-radius: 20px;
+  border-style: hidden;
+}
+button:hover {
+  cursor: pointer;
+}
